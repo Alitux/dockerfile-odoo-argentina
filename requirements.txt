@@ -1,0 +1,20 @@
+pyOpenSSL
+# M2Crypto<=0.38.0
+httplib2>=0.7
+git+https://github.com/pysimplesoap/pysimplesoap@e1453f385cee119bf8cfb53c763ef212652359f5
+git+https://github.com/OCA/openupgradelib/@master
+# fpdf>=1.7.2
+# dbf>=0.88.019
+# Pillow>=2.0.0
+# git+https://github.com/ingadhoc/pyafipws@py3k
+git+https://github.com/filoquin/pyafipws.git@py3k
+# use this genshi version to fix error when, for eg, you send arguments like "date=True" check this https://genshi.edgewall.org/ticket/600
+# git+https://github.com/edgewall/genshi@stable/0.7.x
+# git+https://github.com/aeroo/aeroolib.git
+# waiting for PR https://github.com/aeroo/aeroolib/pull/12
+# git+https://github.com/adhoc-dev/aeroolib@master-fix-ods
+# git+https://github.com/aeroo/currency2text.git
+# xlsxwriter
+# altair
+# py3o.template
+# py3o.formats
